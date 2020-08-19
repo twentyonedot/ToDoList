@@ -99,7 +99,9 @@ form button:hover{
 }
 
 .completed{
-    text-decoration: line-through 0.3rem red;
+    text-decoration: line-through;
+    text-decoration-color: red;
+    text-decoration-thickness: .3rem;
     opacity: .5;
 }
 
